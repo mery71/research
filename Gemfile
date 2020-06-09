@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
  gem 'bcrypt'
  gem 'sprockets-rails', :require => 'sprockets/railtie'
- gem 'bootstrap-sass', '~> 3.3.7'
+ gem 'bootstrap-sass', '~> 3.4.1'
  gem 'jquery-rails'
  gem 'autoprefixer-rails'
  gem "doorkeeper"
