@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
  gem 'bootstrap-sass', '~> 3.3.7'
  gem 'jquery-rails'
  gem 'autoprefixer-rails'
-
+ gem "doorkeeper"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
